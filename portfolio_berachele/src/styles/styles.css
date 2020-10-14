@@ -1,7 +1,7 @@
-/* tailwind styling to import all tools */
+/* tailwind styling to import all tools
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
 /* css imports */
 @import 'global.css';
