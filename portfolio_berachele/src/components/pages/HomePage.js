@@ -10,15 +10,12 @@ import Contact from './Contact'
 
 function HomePage() {
   return (
-    <div className="HomePage">
-      <header className="HomePage-header">
-        <h1>Hello, World!</h1>
-        <NavBar />
-        <Welcome />
-        <Skills />
-        <Projects />
-        <Contact />
-      </header>
+    <div className="home-page">
+      <NavBar />
+      <Welcome />
+      <Skills />
+      <Projects />
+      <Contact />
     </div>
   );
 }

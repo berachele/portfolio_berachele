@@ -9,13 +9,15 @@
     "antd": "^4.6.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "tailwindcss": "^1.8.12"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build-css": "tailwindcss build src/styles/styles.css -o public/styles.css"
   },
   "eslintConfig": {
     "extends": "react-app"

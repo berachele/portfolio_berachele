@@ -1,0 +1,9 @@
+/* tailwind styling to import all tools
+@tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* css imports */
+@import 'global.css';
+@import 'navBar.css';
+@import 'HomePage.css';

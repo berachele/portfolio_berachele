@@ -1,0 +1,10 @@
+/* will import fonts here */
+
+html, body{
+    width: 100%;
+    max-width: 100%;
+}
+
+html{
+  font-size: 62.5%;
+}

@@ -1,0 +1,14 @@
+.nav-bar{
+    background-color: grey;
+    height: 100vh;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h3{
+    font-size: 2.5rem;
+    text-align: right;
+    width: 90%;
+}

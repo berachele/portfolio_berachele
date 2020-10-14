@@ -1,10 +1,14 @@
 import React from 'react';
 
-
 export default function NavBar() {
 
 
     return (
-        <h2>Hello from NavBar</h2>
+        <div className='nav-bar'>
+            <h3>Welcome</h3>
+            <h3>What I Do</h3>
+            <h3>Projects</h3>
+            <h3>Get in Touch</h3>
+        </div>
     )
 }
