@@ -5,6 +5,8 @@ export default function Contact() {
 
 
     return (
-        <h2>Hello from Contact</h2>
+        <div className='contact-page'>
+            <h2>Hello from Contact</h2>
+        </div>
     )
 }

@@ -12,10 +12,12 @@ function HomePage() {
   return (
     <div className="home-page">
       <NavBar />
-      <Welcome />
-      <Skills />
-      <Projects />
-      <Contact />
+      <div className="content-container">
+        <Welcome />
+        <Skills />
+        <Projects />
+        <Contact />
+      </div>
     </div>
   );
 }

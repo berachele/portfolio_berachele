@@ -5,6 +5,8 @@ export default function Welcome() {
 
 
     return (
-        <h2>Hello from Welcome</h2>
+        <div className='welcome-page'>
+            <h2>Hello from Welcome</h2>
+        </div>
     )
 }
