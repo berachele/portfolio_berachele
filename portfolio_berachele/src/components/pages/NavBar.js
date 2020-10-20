@@ -1,5 +1,5 @@
 import React from 'react';
-import { Divider } from 'antd';
+import { Divider } from '@material-ui/core';
 
 export default function NavBar() {
 
@@ -7,9 +7,9 @@ export default function NavBar() {
     return (
         <div className='nav-bar'>
             <h3>Welcome</h3>
-            <Divider style={{color: 'red'}}/>
+            <Divider />
             <h3>What I Do</h3>
-            <Divider className='divider'/>
+            <Divider />
             <h3>Projects</h3>
             <Divider />
             <h3>Get in Touch</h3>
