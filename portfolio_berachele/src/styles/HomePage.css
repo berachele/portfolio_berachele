@@ -2,3 +2,7 @@
     background-color: whitesmoke;
     display: flex;
 }
+
+.content-container{
+    width: 100%;
+}
