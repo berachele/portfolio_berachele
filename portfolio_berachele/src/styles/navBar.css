@@ -12,3 +12,7 @@ h3{
     text-align: right;
     width: 90%;
 }
+
+.ant-divider .ant-divider-horizontal{
+    background-color: red;
+}
