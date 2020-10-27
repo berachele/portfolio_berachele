@@ -4,6 +4,11 @@
 @tailwind utilities; */
 
 /* css imports */
+@import 'reset.css';
 @import 'global.css';
 @import 'navBar.css';
 @import 'HomePage.css';
+@import 'welcome.css';
+@import 'skills.css';
+@import 'projects.css';
+@import 'contact.css';
