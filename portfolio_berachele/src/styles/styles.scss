@@ -1,0 +1,16 @@
+/* tailwind styling to import all tools
+@tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* css imports */
+@import 'reset';
+
+@import 'global';
+
+@import 'navBar';
+@import 'HomePage';
+@import 'welcome';
+@import 'skills';
+@import 'projects';
+@import 'contact';

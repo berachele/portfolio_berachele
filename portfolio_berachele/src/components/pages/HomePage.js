@@ -1,6 +1,4 @@
 import React from 'react';
-//Styles
-import '../../styles/HomePage.css'
 //Components
 import NavBar from './NavBar'
 import Welcome from './Welcome'
