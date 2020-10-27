@@ -1,17 +1,22 @@
 .welcome-page{
     height: 100vh;
     background-color: #B2CAF6;
+    
+    .title-image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+        image {
+            width: 100px;
+        }      
+    }
+    
+    .container {
+        overflow: hidden;
+        width: 100px;
+        height: 100px;
+        border-radius: 50vh;
+    }
 }
 
-.title-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.container {
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    border-radius: 50vh;
-}
