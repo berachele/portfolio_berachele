@@ -4,6 +4,7 @@
 @tailwind utilities; */
 
 /* css imports */
+@import 'reset.css';
 @import 'global.css';
 @import 'navBar.css';
 @import 'HomePage.css';
